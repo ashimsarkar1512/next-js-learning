@@ -1,9 +1,10 @@
+import AboutContects from '@/components/AboutContects';
 import React from 'react';
 
 const AboutPage = () => {
             return (
                         <div>
-                              this is About     
+                            <AboutContects></AboutContects>     
                         </div>
             );
 };
